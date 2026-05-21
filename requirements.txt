@@ -1,0 +1,11 @@
+transformers
+timm
+einops
+matplotlib
+pillow
+requests
+safetensors
+psutil
+packaging
+ninja
+ipykernel
